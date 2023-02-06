@@ -11,7 +11,7 @@ namespace ChatDB
     {
         public int Register(Account account)
         {
-
+            string sql = "";
             return -1;
         }
     }
